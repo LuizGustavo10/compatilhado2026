@@ -57,3 +57,6 @@ tk.Button(raiz, text="Fechar Última", width=18, command=fechar_ultima).pack(pad
 raiz.mainloop()
 
 #novas alterações
+
+
+#oi teste
