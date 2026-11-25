@@ -55,3 +55,5 @@ tk.Button(raiz, text="Nova Janela", width=18, command=criar_janela).pack(pady=4)
 tk.Button(raiz, text="Fechar Última", width=18, command=fechar_ultima).pack(pady=4)
 
 raiz.mainloop()
+
+#novas alterações
